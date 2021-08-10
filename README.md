@@ -36,6 +36,11 @@
 <img align="left" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
 <img align="left" alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="Sass" src="https://img.icons8.com/color/48/000000/sass.png" />
+
+<br>
+<br>
+<br>
+
 <img align="left" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
 <img align="left" alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <img align="left" alt="React" src="https://img.icons8.com/office/40/000000/react.png" />
@@ -61,6 +66,11 @@
 <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="Terminal" src="https://img.icons8.com/fluency/48/000000/console.png" />
 <img align="left" alt="Git" src="https://img.icons8.com/color/48/000000/git.png" />
+
+<br>
+<br>
+<br>
+
 <img align="left" alt="AWS" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 <img align="left" alt="Postman" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />
 
@@ -73,6 +83,10 @@
 <br>
 
 <img align="left" alt="MacOs" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
+<br>
+<br>
+
 <img align="left" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <br>
 <br>
