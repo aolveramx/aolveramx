@@ -59,9 +59,9 @@
 <br>
 
 <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="Terminal" src="https://img.icons8.com/ios-filled/50/000000/console.png" />
+<img align="left" alt="Terminal" src="https://img.icons8.com/fluency/48/000000/console.png" />
 <img align="left" alt="Git" src="https://img.icons8.com/color/48/000000/git.png" />
-<img align="left" alt="AWS" src="https://img.icons8.com/windows/64/000000/amazon-web-services.png" />
+<img align="left" alt="AWS" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 <img align="left" alt="Postman" src="https://img.icons8.com/dusk/64/000000/postman-api.png" />
 
 <br>
