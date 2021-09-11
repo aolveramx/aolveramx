@@ -41,7 +41,7 @@
 <br>
 <br>
 
-<img align="left" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img align="left" alt="TypeScript" src="https://img.icons8.com/color/48/000000/typescript.png" />
 <img align="left" alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <img align="left" alt="React" src="https://img.icons8.com/office/40/000000/react.png" />
 
