@@ -1,10 +1,4 @@
-### What´s going on folks? I'm Ari 🙋🏻‍♂️
-
-<br>
-
-[![blog](https://img.shields.io/website?label=blog.ariolvera.com&style=for-the-badge&logo=appveyor&url=https%3A%2F%2Fblog.ariolvera.com)](https://blog.ariolvera.com)
-
-## I'm a Fullstack Web Developer
+### What´s going on folks? I'm Ari 🙋🏻‍♂️ a Fullstack Web Developer
 
 <br>
 
